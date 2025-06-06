@@ -1,5 +1,0 @@
-Total : 42
-Faux positifs (antecedants) : 0
-Faux négatifs (antecedants) : 3
-Antécédents : 3
-Pas d'antécédents : 39

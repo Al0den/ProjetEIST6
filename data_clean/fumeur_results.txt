@@ -1,5 +1,0 @@
-Total: 0
-Faux Positifs: 0
-Faux Négatifs: 0
-True Positifs: 0
-True Négatifs: 0
