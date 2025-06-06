@@ -1,0 +1,5 @@
+Total : 26
+Faux positifs (alcool) : 26
+Faux négatifs (alcool) : 0
+Buveurs : 26
+Non-buveurs : 0

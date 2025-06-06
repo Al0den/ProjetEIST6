@@ -1,0 +1,5 @@
+Total: 123
+Faux Positifs: 1
+Faux Négatifs: 2
+True Positifs: 9
+True Négatifs: 108
